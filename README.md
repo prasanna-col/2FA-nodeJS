@@ -54,11 +54,11 @@ Update the trigger id on your backend code
 2. Login: http://localhost:4000/api/login 
 	
 	Body: {
-        	email: ‘name@yopmail.com',
+        	email: ‘username@yopmail.com',
 	        password: 'Qwer@123',
       	    }
 
-	Code will send when login is successful
+	Code will send to your mobile number when login is successful
 
 3. Code verification API: http://localhost:4000/api/verification 
 	
