@@ -45,10 +45,10 @@ Update the trigger id on your backend code
 1. Register: http://localhost:4000/api/register
 
 	Body: {
-        	email: ‘name@yopmail.com',
+        	email: ‘username@yopmail.com',
 	        password: 'Qwer@123',
         	username: 'sourash',
-	        tel: '+918XXX3XXXX0' // your mobile number
+	        tel: '+91822312XXXX' // your mobile number
 	    }
 
 2. Login: http://localhost:4000/api/login 
